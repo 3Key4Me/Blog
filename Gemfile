@@ -17,8 +17,10 @@ gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 gem 'devise', '~> 4.2'
+gem 'inherited_resources',github:'activeadmin/inherited_resources'
 gem 'activeadmin', '~> 1.1'
 gem 'active_skin'
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
